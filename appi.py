@@ -973,7 +973,7 @@ Il permet d’anticiper les mouvements du marché, d’optimiser vos décisions 
     st.markdown("### Données en temps réel, graphiques interactifs et indicateurs clés")
 
     # ===== Clé d'accès API =====
-    API_ACCESS_KEY = "dbd2c064de0f76095579a407cca98980"
+    API_ACCESS_KEY = "a57d1c643bd82c82f987f3193ecff453"
 
     # ===== Fonction pour obtenir les taux en temps réel =====
     @st.cache_data(ttl=60)
