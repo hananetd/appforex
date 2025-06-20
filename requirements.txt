@@ -9,3 +9,4 @@ plotly
 requests
 investpy
 git+https://github.com/alvarobartt/investpy.git
+streamlit-lottie
